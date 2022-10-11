@@ -17,7 +17,7 @@ function App() {
         draggable
         pauseOnHover
       />
-      <RouterContainer />;
+      <RouterContainer />
     </>
   );
 }
